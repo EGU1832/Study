@@ -38,7 +38,7 @@
 3. 모든 HTML 마크업을 대신하지 못한다.
 
 ## Grammars
-* 줄바꿈
+- 줄바꿈
 ```
 띄어쓰기 2번 또는 "<br/>"
 ```
@@ -51,7 +51,8 @@
 
 	` ```{code}``` ` 방식 <br/>
 	<pre>
-	<code>
+	<code>```html
+	<pre class="rounded">
 	```(language(ex. Java))	// 문법강조가 가능하다
 	~code~
 	```
