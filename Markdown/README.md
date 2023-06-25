@@ -56,7 +56,6 @@
 ```
 </code>
 </pre>
-
 	- *<pre><code>{code}</code></pre>* 방식
 ```
 <pre>
