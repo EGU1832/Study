@@ -35,9 +35,9 @@ Real-time | High-precision
 - Mesh: 복잡하고 상세한 모양 (꽃병, 나뭇가지 등)
 - Shape: 간단한 모양 (실린더, 구, 정육면체 등)
 - Collision Geometry: processing을 위해 복잡한 mesh대신 단순한 형태의 mesh를 사용하는 것
-	- Minimum bounding box: 최소 둘레 경계 상자, 3차원에서는 직육면체, 2차원에서는 직사각형 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Minimum_bounding_rectangle.svg/1024px-Minimum_bounding_rectangle.svg.png" width="30%" height="30%"/>
+	- Minimum bounding box: 최소 둘레 경계 상자, 3차원에서는 직육면체, 2차원에서는 직사각형  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Minimum_bounding_rectangle.svg/1024px-Minimum_bounding_rectangle.svg.png" width="30%" height="30%"/>
 	- Sphere: 구
-	- Convex hull: 볼록한 선체 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Extreme_points.svg/1024px-Extreme_points.svg.png" width="30%" height="30%"/>
+	- Convex hull: 볼록한 선체  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Extreme_points.svg/1024px-Extreme_points.svg.png" width="30%" height="30%"/>
 
 ### Soft-body dynamics
 - 
