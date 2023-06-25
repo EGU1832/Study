@@ -37,7 +37,7 @@ Real-time | High-precision
 - Collision Geometry: processing을 위해 복잡한 mesh대신 단순한 형태의 mesh를 사용하는 것
 	- Minimum bounding box: 최소 둘레 경계 상자, 3차원에서는 직육면체, 2차원에서는 직사각형 <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Minimum_bounding_rectangle.svg/1024px-Minimum_bounding_rectangle.svg.png" width="30%" height="30%"/>
 	- Sphere: 구
-	- Convex hull: 볼록한 선체 <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Extreme_points.svg/1024px-Extreme_points.svg.png" width="30%" height="30%"/>
+	- Convex hull: 볼록한 선체 <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Extreme_points.svg/1024px-Extreme_points.svg.png" width="20%" height="20%"/>
 
 ### Soft-body dynamics
 - 
