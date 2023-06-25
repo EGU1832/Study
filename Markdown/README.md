@@ -39,12 +39,12 @@
 
 ## Grammars
 - 줄바꿈
-
-	띄어쓰기 2번 또는 "<br/>"
-
+```
+띄어쓰기 2번 또는 "<br/>"
+```
 - 이미지 넣기
-
-	- ![image](image_link) 이미지 크기 조절 불가능
-	- <img src="image_link" width="" height=""/> 이미지 크기 조절 가능
-
+```
+![image](image_link) 이미지 크기 조절 불가능
+<img src="image_link" width="" height=""/> 이미지 크기 조절 가능
+```
 
