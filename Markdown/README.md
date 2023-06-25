@@ -40,7 +40,6 @@
 ## Grammars
 - 줄바꿈
 ```
-<pre class="rounded">
 띄어쓰기 2번 또는 "<br/>"
 ```
 - 이미지 넣기
@@ -53,7 +52,6 @@
 	` ```{code}``` ` 방식 <br/>
 	<pre>
 	<code>
-	<pre class="rounded">
 	```(language(ex. Java))	// 문법강조가 가능하다
 	~code~
 	```
