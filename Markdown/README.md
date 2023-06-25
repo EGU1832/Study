@@ -48,6 +48,7 @@
 <img src="image_link" width="" height=""/> 이미지 크기 조절 가능
 ```
 - 코드블럭 넣기
+
 	- ` ```{code}``` ` 방식
 	<pre>
 	<code>
@@ -56,6 +57,7 @@
 	```
 	</code>
 	</pre>
+
 	- ` <pre><code>{code}</code></pre> ` 방식
 	```
 	<pre>
