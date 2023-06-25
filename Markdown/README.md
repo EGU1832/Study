@@ -51,7 +51,7 @@
 
 	` ```{code}``` ` 방식 <br/>
 	<pre>
-	<code>```html
+	<code>
 	<pre class="rounded">
 	```(language(ex. Java))	// 문법강조가 가능하다
 	~code~
