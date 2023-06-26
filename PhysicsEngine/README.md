@@ -40,8 +40,7 @@ Real-time | High-precision
 
 ### Soft-body dynamics
 - Bounding-box 기반의 물리 시스템 대신 finit element 기반의 시스템을 사용한다.
-- 이 시스템에서는 3차원 기반의 tessellation(테셀레이션)을 이용한다. <br/>
-<img src="https://i.namu.wiki/i/O3tc0gGi2xrLiPmyN9wh9xOTTgi_2zrWSKQifM0a8DBUk-5m584Sdkz0w8KWPxBNk7h8DxQfT7Gg1GzDUwATr_jEAHgsjkZCcYXpxj1uB3xRdi6yMMUNt2BHtdZ5WKNzXKRchQeKT8KbD5ilsWEgww.webp" width="20%" height="20%"/>
+- 이 시스템에서는 3차원 기반의 tessellation(테셀레이션)을 이용한다. <br/> <img src="https://i.namu.wiki/i/O3tc0gGi2xrLiPmyN9wh9xOTTgi_2zrWSKQifM0a8DBUk-5m584Sdkz0w8KWPxBNk7h8DxQfT7Gg1GzDUwATr_jEAHgsjkZCcYXpxj1uB3xRdi6yMMUNt2BHtdZ5WKNzXKRchQeKT8KbD5ilsWEgww.webp" width="20%" height="20%"/>
 - Tessellation은 물리적 특성(toughness, platicity 등)을 가지고 있는 여러 개의 finite element로 구성된다. 예를 들어 3d 애니메이션에서 캐릭터를 모델링한 요소를 보면 복잡한 형태의 모양이 여러개의 단순한 모양으로 이루어져 있는것을 볼 수 있다.
 - 이러한 특성상 높은  사양의 CPU혹은 GPU를 요구한다.
 - 이 finite element들은 solver(솔버)에 의해 3D 객체의 stress(응력)을 모델링하는데 사용된다. 이 stress는 현실적인 물리적 파괴 또는 변형을 표현하는데 사용된다. 이 finite element의 개수가 늘어날 수록 더 정확한 물리 시뮬레이션이 가능하다.
