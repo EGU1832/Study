@@ -51,7 +51,7 @@ Real-time | High-precision
 - 브라운 운동이란 액체나 기체 속에서 미소입자들이 불규칙하게 운동하는 현상을 말한다. 여기서는 실제 세계에서는 물체들이 실제로 미세하게 움직이고 있다는 것으로 이해하겠다.
 - Game Physics에서는 모든 물체의 미세한 움직임을 항상 계산하기에는(jitter) CPU에 무리가 가기 때문에, 일정 시간 동안 특정 거리 이상 움직이지 않은 객체의 물리 계산을 비활성화하는데, 이를 "sleep", 즉 휴면 상태라고 한다.
 
-###Paradims
+### Paradims
 - Game Physics 시스템의 구성요소
 	- Collision Detection/Collision Response: 충돌 감지 및 응답
 	- Dynamics Simulation: 개체에 영향을 미치는 힘 해결
